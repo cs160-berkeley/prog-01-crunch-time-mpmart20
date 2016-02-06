@@ -1,22 +1,26 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+A simple one page app that can convert Excercises into calories burned and vice versa. 
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Marc Phillip A. Mart ([m.mart@berkeley.edu](mailto:m.mart@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [Prog01: CrunchTime (CS160 Sp 2016) ] (https://www.youtube.com/watch?v=qeW3nKfP2B0&feature=youtu.be)
 
 ## Screenshots
 
 <img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/action1.png" height="400" alt="Screenshot"/>
+<img src="screenshots/enteringCals.png" height="400" alt="Screenshot"/>
+<img src="screenshots/action2.png" height="400" alt="Screenshot"/>
+<img src="screenshots/enteringReps/Mins.png" height="400" alt="Screenshot"/>
+
+
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Any other support
+A special thanks to the active students and TAs/GSIs on piazza who I continually learn from!
 
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
