@@ -15,8 +15,7 @@ See [Prog01: CrunchTime (CS160 Sp 2016) ] (https://www.youtube.com/watch?v=qeW3n
 <img src="screenshots/main.png" height="400" alt="Screenshot"/>
 <img src="screenshots/action1.png" height="400" alt="Screenshot"/>
 <img src="screenshots/enteringCals.png" height="400" alt="Screenshot"/>
-<img src="screenshots/action2.png" height="400" alt="Screenshot"/>
-<img src="screenshots/enteringReps/Mins.png" height="400" alt="Screenshot"/>
+
 
 
 
